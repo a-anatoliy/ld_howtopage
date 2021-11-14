@@ -1,7 +1,10 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
-import App from './App';
+import './css/custom.sass';
+import './css/bootstrap.css';
+import './css/font-awesome.css';
+// import App from './App';
+import App from './AppNative';
 import * as serviceWorker from './serviceWorker';
 
 ReactDOM.render(
